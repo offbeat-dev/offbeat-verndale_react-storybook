@@ -9,8 +9,9 @@ export const HomepageHero = () => {
           <h1 className="heading-1 home-hero">Creatives shape the future.</h1>
           <div className="hero-grid-right">
             <div className="heading-4 home-hero">
-              FM brands equip creatives with premium resources so they can
-              deliver the most influential work of their careers.
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FM
+              brands equip creatives with premium resources so they can deliver
+              the most influential work of their careers.
             </div>
             <div className="home-hero-scroll-badge-wrapper">
               <div className="home-hero-scroll-badge-container">
